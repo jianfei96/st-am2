@@ -5,6 +5,14 @@ ITストラテジスト試験「午前II」の過去問題を解くための iOS
 
 > 本アプリは非公式の学習用アプリです。IPA(独立行政法人情報処理推進機構)および試験実施団体とは関係ありません。
 
+## ダウンロード
+
+ビルド済みの IPA は [Releases](https://github.com/jianfei96/st-am2/releases/latest) で配布しています。
+
+- ファイル名は `STApp-<version>-unsigned.ipa` です。**未署名**のため、そのままでは実機にインストールできません。
+- Sideloadly / AltStore / SideStore などで Apple ID を使って再署名するか、Xcode でご自身の Team を設定してビルドしてください。
+- 対応: iOS 17.0 以降
+
 ## 特徴
 
 - **全400問を収録** — 午前II 16回分(各25問)を文字起こしし、解答はIPA公式解答例と全問照合済み
